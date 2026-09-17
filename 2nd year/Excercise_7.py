@@ -1,0 +1,5 @@
+name = input("enter your name: ")
+number = int(input("enter your phone number quik: "))
+age = int(input("enter your age: "))
+height = float(input("enter your height: "))
+eircode = input("enter your eircode: ")
