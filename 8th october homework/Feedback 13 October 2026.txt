@@ -1,0 +1,5 @@
+Excellent work.
+
+For activity 5, you could use a single print statement after the if else
+
+Activity 6 doesn't run due to a rogue colon :

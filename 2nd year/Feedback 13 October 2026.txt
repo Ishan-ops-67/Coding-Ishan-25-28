@@ -1,0 +1,7 @@
+Your work is very good.
+
+For exercise 6, total_sum and product have datatypes and values aswell.
+
+For exercise 7, You need to be careful with the phone number. 
+If you had done part 8, you would see it doesn't print properly with a leading
+0, so you need to keep it as a string.
